@@ -5,6 +5,7 @@ angular.module('SitePointAngularAppApp')
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
-      'Karma'
+      'Karma',
+      'SitePoint'
     ];
   });
